@@ -46,22 +46,22 @@ G19. Human Pose Estimation| G20. 행동 스티커 만들기
 
 ## Fundamental
 --------
-F2. Markdown|
-F8. Visualization
-F9. Scikit-learn
-F10. Class
-F11. EDA, Feature Engineering
-F12. Unsupervised Learning
-F14. Data Preprocessing
-F15. Regression
-F16. Multitasking
-F18. Anomaly Detection
-F19. Deep Learning
-F20. Image Processing
-F21. SQL
-F22. TensorFlow 2 API
-F24. Linear & Convolution Layer
-F25. Data Handling| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F25_data_handling.ipynb)
-F26. PySpark
-F27. Embedding & Recurrent Layer
-F30. CNN Models
+F2. Markdown<br>
+F8. Visualization<br>
+F9. Scikit-learn<br>
+F10. Class<br>
+F11. EDA, Feature Engineering<br>
+F12. Unsupervised Learning<br>
+F14. Data Preprocessing<br>
+F15. Regression<br>
+F16. Multitasking<br>
+F18. Anomaly Detection<br>
+F19. Deep Learning<br>
+F20. Image Processing<br>
+F21. SQL<br>
+F22. TensorFlow 2 API<br>
+F24. Linear & Convolution Layer<br>
+F25. Data Handling<br>
+F26. PySpark<br>
+F27. Embedding & Recurrent Layer<br>
+F30. CNN Models<br>
